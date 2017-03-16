@@ -1,0 +1,22 @@
+{
+  "name": "is-an-or-a",
+  "version": "1.0.0",
+  "description": "A small module to test the first letter in a string for a vowel and return the appropriate word before the string. If the first letter is a vowel return 'an' if the first letter is not a vowel return 'a'. ",
+  "main": "isAnOrA.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doginal/isAnOrA.git"
+  },
+  "author": "Alex Griggs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Doginal/isAnOrA/issues"
+  },
+  "homepage": "https://github.com/Doginal/isAnOrA#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
